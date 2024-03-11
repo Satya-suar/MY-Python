@@ -1,0 +1,23 @@
+a=50
+b=60
+c=a<b
+print(c)
+str="Welcome To Nalanda"
+print(str[-15])
+print(str[0:10:1])
+print(str[1:12:2])
+print(str[::2])
+print(str[:5000:2])
+print(str[100:12:2])
+print(str[::-1])
+print(str[::-2])
+print(str[-15:-14:-1])
+print(str[-12:2:-1])
+print(str[8:15:-1])
+print(str[5000:5:-1])
+print(str[-6::])
+print(str[-1:-4:-1])
+print(str[-4:-1:])
+print(str[:-4:])
+print(str[2:9])
+print(str[1:-12:])
